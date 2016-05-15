@@ -1,0 +1,11 @@
+.breadcrumb {
+    height: 40px;
+    border-bottom: 1px solid #eee;
+    margin: 0 20px;
+    span,a {
+        line-height: 35px;
+    }
+    a {
+        text-decoration: none;
+    }
+}

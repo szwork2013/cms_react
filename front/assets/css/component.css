@@ -1,0 +1,16 @@
+li:hover {
+    background: #eee;
+}
+.leftNav {
+    overflow: hidden;
+    height: 100%;
+}
+.leftNav i {
+    position: absolute;
+    right: 10px;
+    margin-top: 19px;
+}
+
+.statusBar a {
+    color: #fff;
+}

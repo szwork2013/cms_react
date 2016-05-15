@@ -1,0 +1,29 @@
+.power_edit {
+    table {
+        width: 50%;
+        margin: 30px auto;
+        border-collapse: collapse;
+        border-spacing: 0;
+        table-layout: fixed;
+        tr {
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            th {
+                border-bottom: 1px solid #e0e0e0;
+                font-size: 16px;
+            }
+            td {
+                border-bottom: 1px dashed #ccc;
+            }
+            input {
+                width: 20px;
+                display: inline-block;
+                position: relative;
+                top: 10px;
+                margin: 0 0 0 10px;
+            }
+        }
+    }
+
+}

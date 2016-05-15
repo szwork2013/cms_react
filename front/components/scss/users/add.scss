@@ -1,0 +1,37 @@
+.users_add {
+    form {
+        width: 600px;
+        margin: 50px auto;
+    }
+    li {
+        height: 37px;
+        line-height: 37px;
+        margin: 0 0 20px 0;
+        cursor: default;
+        text-indent: 0;
+    }
+    .tit {
+        width: 100px;
+        text-align: right;
+        margin-right: 20px;
+    }
+    input {
+        flex: 1;
+        display: block;
+        width: 480px;
+        margin: 0;
+    }
+    .radio {
+        width: 100px;
+        input {
+            width: 20px;
+            height: 20px;
+            margin: 11px 0 0 0;
+            float: left;
+        }
+        span {
+            display: inline;
+            line-height: 37px;
+        }
+    }
+}
